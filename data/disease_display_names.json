@@ -1,0 +1,198 @@
+{
+    "Flu": {
+        "friendly_name": "Viral Flu",
+        "description": "A common viral infection that can be deadly, especially in high-risk groups."
+    },
+    "Common Cold": {
+        "friendly_name": "Common Cold",
+        "description": "A mild viral infection of the nose and throat."
+    },
+    "COVID-19": {
+        "friendly_name": "COVID-19 / Coronavirus",
+        "description": "A respiratory illness caused by a virus."
+    },
+    "Pneumonia": {
+        "friendly_name": "Lung Infection",
+        "description": "An infection that inflames the air sacs in one or both lungs."
+    },
+    "Tuberculosis": {
+        "friendly_name": "Tuberculosis (TB)",
+        "description": "A serious infectious bacterial disease that mainly affects the lungs."
+    },
+    "Asthma": {
+        "friendly_name": "Asthma / Breathing Condition",
+        "description": "A condition in which airways narrow and swell and may produce extra mucus."
+    },
+    "Severe Asthma": {
+        "friendly_name": "Severe Breathing Condition",
+        "description": "A critical narrowing of airways requiring immediate attention."
+    },
+    "Acute Bronchiolitis": {
+        "friendly_name": "Lower Respiratory Infection",
+        "description": "A common lung infection in young children and infants."
+    },
+    "Dengue": {
+        "friendly_name": "Dengue Fever",
+        "description": "A mosquito-borne viral infection causing a severe flu-like illness."
+    },
+    "Severe Dengue": {
+        "friendly_name": "Severe Dengue",
+        "description": "A critical complication of dengue fever."
+    },
+    "Malaria": {
+        "friendly_name": "Malaria",
+        "description": "A disease caused by a parasite, transmitted by the bite of infected mosquitoes."
+    },
+    "Typhoid": {
+        "friendly_name": "Typhoid Fever",
+        "description": "A bacterial infection that can lead to a high fever, diarrhea, and vomiting."
+    },
+    "Chikungunya": {
+        "friendly_name": "Chikungunya",
+        "description": "A viral infection transmitted by mosquitoes, causing fever and severe joint pain."
+    },
+    "Gastroenteritis": {
+        "friendly_name": "Stomach Flu / Gastroenteritis",
+        "description": "An intestinal infection marked by diarrhea, cramps, nausea, vomiting, and fever."
+    },
+    "Food Poisoning": {
+        "friendly_name": "Food Poisoning",
+        "description": "Illness caused by eating contaminated food."
+    },
+    "Peptic Ulcer Disease": {
+        "friendly_name": "Stomach Ulcer",
+        "description": "A sore that develops on the lining of the esophagus, stomach, or small intestine."
+    },
+    "Acid Reflux (GERD)": {
+        "friendly_name": "Acid Reflux / Heartburn",
+        "description": "A digestive disease in which stomach acid or bile irritates the food pipe lining."
+    },
+    "Constipation": {
+        "friendly_name": "Constipation",
+        "description": "Infrequent bowel movements or difficult passage of stools."
+    },
+    "Hypertension": {
+        "friendly_name": "High Blood Pressure",
+        "description": "A condition in which the force of the blood against the artery walls is too high."
+    },
+    "Heart Attack": {
+        "friendly_name": "Heart Attack",
+        "description": "A medical emergency when blood flow to the heart is blocked."
+    },
+    "Heart Failure": {
+        "friendly_name": "Heart Failure",
+        "description": "A chronic condition in which the heart doesn't pump blood as well as it should."
+    },
+    "Stroke": {
+        "friendly_name": "Stroke",
+        "description": "Damage to the brain from interruption of its blood supply."
+    },
+    "Migraine": {
+        "friendly_name": "Severe Headache / Migraine",
+        "description": "A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound."
+    },
+    "Diabetes": {
+        "friendly_name": "Blood Sugar Condition (Diabetes)",
+        "description": "A disease that results in too much sugar in the blood."
+    },
+    "Hypoglycemia": {
+        "friendly_name": "Low Blood Sugar",
+        "description": "A condition in which your blood sugar level is lower than normal."
+    },
+    "Seasonal Allergies": {
+        "friendly_name": "Seasonal Allergies",
+        "description": "An allergic response causing itchy, watery eyes, sneezing, and other similar symptoms."
+    },
+    "Contact Dermatitis": {
+        "friendly_name": "Skin Rash (Allergic)",
+        "description": "A skin rash caused by contact with a certain substance."
+    },
+    "Chickenpox": {
+        "friendly_name": "Chickenpox",
+        "description": "A highly contagious viral infection causing an itchy, blister-like rash on the skin."
+    },
+    "Anemia": {
+        "friendly_name": "Low Iron / Anemia",
+        "description": "A condition in which the blood doesn't have enough healthy red blood cells."
+    },
+    "Kidney Failure": {
+        "friendly_name": "Kidney Condition",
+        "description": "A condition in which the kidneys lose the ability to remove waste and balance fluids."
+    },
+    "Urinary Tract Infection": {
+        "friendly_name": "Urinary Tract Infection (UTI)",
+        "description": "An infection in any part of the urinary system, the kidneys, bladder, or urethra."
+    },
+    "Prostatitis": {
+        "friendly_name": "Prostate Inflammation",
+        "description": "Swelling and inflammation of the prostate gland."
+    },
+    "Conjunctivitis Due To Virus": {
+        "friendly_name": "Eye Infection (Viral)",
+        "description": "An irritation or infection affecting the eyes."
+    },
+    "Arthritis": {
+        "friendly_name": "Joint Inflammation (Arthritis)",
+        "description": "Inflammation of one or more joints, causing pain and stiffness."
+    },
+    "Sepsis": {
+        "friendly_name": "Severe Body Infection",
+        "description": "A serious infection that may require urgent medical care."
+    },
+    "White Blood Cell Disease": {
+        "friendly_name": "Immune System Condition",
+        "description": "A condition related to infection-fighting blood cells."
+    },
+    "Fungal Infection": {
+        "friendly_name": "Fungal Infection",
+        "description": "Any disease caused by a fungus."
+    },
+    "Hypothyroidism": {
+        "friendly_name": "Underactive Thyroid",
+        "description": "A condition in which the thyroid gland doesn't produce enough crucial hormones."
+    },
+    "Hyperthyroidism": {
+        "friendly_name": "Overactive Thyroid",
+        "description": "A condition in which the thyroid gland produces too much of the hormone thyroxine."
+    },
+    "Tension Headache": {
+        "friendly_name": "Tension Headache",
+        "description": "A mild to moderate pain often described as feeling like a tight band around the head."
+    },
+    "Mild Dehydration": {
+        "friendly_name": "Mild Dehydration",
+        "description": "A condition that occurs when the body loses more fluids than it takes in."
+    },
+    "Heat Exhaustion": {
+        "friendly_name": "Heat Exhaustion",
+        "description": "A condition whose symptoms may include heavy sweating and a rapid pulse, a result of your body overheating."
+    },
+    "Smoking Or Tobacco Addiction": {
+        "friendly_name": "Tobacco Addiction Effects",
+        "description": "Symptoms related to the habitual use of tobacco products."
+    },
+    "Acute Sinusitis": {
+        "friendly_name": "Sinus Infection (Acute)",
+        "description": "Short-term inflammation of the sinuses, often caused by a virus or bacteria."
+    },
+    "Chronic Sinusitis": {
+        "friendly_name": "Sinus Infection (Chronic)",
+        "description": "Long-term inflammation of the sinuses lasting more than 12 weeks."
+    },
+    "Amoebiasis": {
+        "friendly_name": "Stomach Infection (Amoebic)",
+        "description": "An intestinal infection caused by a parasite."
+    },
+    "PCOS": {
+        "friendly_name": "Hormonal Imbalance (PCOS)",
+        "description": "A hormonal disorder common among women of reproductive age."
+    },
+    "Vitamin D Deficiency": {
+        "friendly_name": "Vitamin D Deficiency",
+        "description": "Insufficient levels of vitamin D, causing bone and muscle pain."
+    },
+    "Scabies": {
+        "friendly_name": "Itchy Skin Infection (Scabies)",
+        "description": "A contagious skin condition caused by tiny mites."
+    }
+}

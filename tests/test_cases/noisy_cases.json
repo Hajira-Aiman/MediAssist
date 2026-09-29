@@ -1,0 +1,482 @@
+[
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "fevr and hedach very bad",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "pls help my chest hurts and i cant breath well",
+    "expected_categories": []
+  },
+  {
+    "input": "i have a lot of pain in my stomach and i threw up twice",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "nose is running, throat hurts, kinda hot",
+    "expected_categories": []
+  },
+  {
+    "input": "cant stop coughing feeling weak what do i do",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "um i think i might have a cold because im sneezing a lot",
+    "expected_categories": []
+  },
+  {
+    "input": "pain in joints... feverish... rash on arm",
+    "expected_categories": []
+  },
+  {
+    "input": "my head hurts so bad and i feel terrible",
+    "expected_categories": []
+  }
+]

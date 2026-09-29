@@ -1,0 +1,302 @@
+[
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "seizures and fainting",
+    "implausible_disease": "Common Cold",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "vomiting and diarrhea",
+    "implausible_disease": "Tension Headache",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "cough and fever",
+    "implausible_disease": "Eye Infection (Viral)",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "severe chest pain",
+    "implausible_disease": "Seasonal Allergies",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  },
+  {
+    "input": "red itchy watery eyes",
+    "implausible_disease": "Gastroenteritis",
+    "description": "Ensure the system strongly penalizes the implausible disease."
+  }
+]

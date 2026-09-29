@@ -1,0 +1,1237 @@
+[
+  {
+    "input": "runny nose and sore throat and sneezing and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "itchy eyes and runny nose and sneezing and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "eye pain and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "cough and body ache and fatigue and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "fatigue and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and sneezing and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "chills and fatigue",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "rash and headache",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "joint pain and headache and rash",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "cough and fatigue and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sore throat and sneezing",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and stomach pain and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "vomiting and nausea and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eye and itchy eye and red eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eye and red eye and eye pain and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "fatigue and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sore throat and sneezing and mild cough and runny nose",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "itchy eyes and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "high fever and headache and rash and joint pain",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "high fever and headache and rash",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "headache and stiff neck and head pressure",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "mild cough and runny nose",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "stiff neck and head pressure and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "mild cough and sore throat and runny nose",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "stiff neck and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "stomach pain and diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "eye pain and watery eye and red eye and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "headache and joint pain and high fever and rash",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and mild cough and sneezing and sore throat",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "runny nose and mild cough and sore throat",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "high fever and rash and headache and joint pain",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "head pressure and headache and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "eye pain and watery eye and itchy eye and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "red eye and watery eye and eye pain and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "stomach pain and nausea and diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and itchy eyes and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "watery eye and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "diarrhea and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "cough and fever and body ache and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "cough and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eyes and itchy eyes and runny nose and sneezing",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and stomach pain and diarrhea",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "fever and fatigue and body ache",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea and stomach pain and diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "headache and rash",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "headache and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "fever and body ache and fatigue",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea and diarrhea and vomiting and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and runny nose and itchy eyes and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "sneezing and watery eyes and itchy eyes and runny nose",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "stiff neck and headache and head pressure",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and watery eyes and itchy eyes and runny nose",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "mild cough and sneezing and sore throat",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck and headache",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "high fever and headache",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and itchy eyes and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "red eye and eye pain and watery eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "joint pain and rash and headache",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and itchy eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "head pressure and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "headache and high fever and joint pain and rash",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eye and eye pain and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and stomach pain and diarrhea and vomiting",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "mild cough and runny nose and sneezing",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "headache and high fever and joint pain",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eyes and itchy eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "sneezing and sore throat and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "runny nose and sneezing and itchy eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "fever and cough and fatigue and body ache",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "itchy eye and watery eye and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "rash and high fever",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "itchy eyes and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "sneezing and runny nose and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "red eye and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "body ache and fever and cough",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "red eye and itchy eye and eye pain and watery eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "runny nose and sneezing and sore throat and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "body ache and chills and fever",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "runny nose and sneezing and watery eyes and itchy eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "runny nose and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "headache and stiff neck",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "rash and headache and high fever",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "headache and rash and high fever",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and runny nose",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "vomiting and stomach pain and nausea and diarrhea",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "rash and high fever",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "stomach pain and vomiting and diarrhea and nausea",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "red eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "sore throat and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "rash and headache",
+    "expected_categories": [
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Dengue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "watery eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "sneezing and runny nose and watery eyes",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "watery eye and eye pain and itchy eye and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "watery eyes and sneezing",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and vomiting and diarrhea and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "red eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "nausea and stomach pain",
+    "expected_categories": [
+      "gastrointestinal"
+    ],
+    "expected_possible_diseases": [
+      "Gastroenteritis"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "fever and chills and body ache and fatigue",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "body ache and fatigue and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "sneezing and sore throat and mild cough",
+    "expected_categories": [
+      "respiratory"
+    ],
+    "expected_possible_diseases": [
+      "Common Cold"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "watery eyes and itchy eyes and sneezing and runny nose",
+    "expected_categories": [
+      "respiratory",
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Seasonal Allergies"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "stiff neck and headache and head pressure",
+    "expected_categories": [
+      "neurological"
+    ],
+    "expected_possible_diseases": [
+      "Tension Headache"
+    ],
+    "severity": "medium"
+  },
+  {
+    "input": "red eye and eye pain and watery eye and itchy eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "itchy eye and eye pain",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "itchy eye and watery eye and red eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "red eye and watery eye",
+    "expected_categories": [
+      "eye"
+    ],
+    "expected_possible_diseases": [
+      "Conjunctivitis Due To Virus"
+    ],
+    "severity": "low"
+  },
+  {
+    "input": "body ache and chills",
+    "expected_categories": [
+      "respiratory",
+      "fever"
+    ],
+    "expected_possible_diseases": [
+      "Flu"
+    ],
+    "severity": "medium"
+  }
+]

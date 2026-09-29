@@ -1,0 +1,402 @@
+{
+    "Flu": [
+        "respiratory",
+        "fever",
+        "systemic"
+    ],
+    "Common Cold": [
+        "respiratory",
+        "fever"
+    ],
+    "COVID-19": [
+        "respiratory",
+        "fever",
+        "systemic",
+        "neurological"
+    ],
+    "Pneumonia": [
+        "respiratory",
+        "fever"
+    ],
+    "Tuberculosis": [
+        "respiratory",
+        "fever",
+        "systemic"
+    ],
+    "Asthma": [
+        "respiratory"
+    ],
+    "Severe Asthma": [
+        "respiratory"
+    ],
+    "Acute Bronchiolitis": [
+        "respiratory",
+        "fever"
+    ],
+    "Dengue": [
+        "fever",
+        "systemic",
+        "musculoskeletal",
+        "gastrointestinal"
+    ],
+    "Severe Dengue": [
+        "fever",
+        "systemic",
+        "gastrointestinal",
+        "cardiovascular"
+    ],
+    "Malaria": [
+        "fever",
+        "systemic",
+        "neurological"
+    ],
+    "Typhoid": [
+        "fever",
+        "gastrointestinal",
+        "systemic"
+    ],
+    "Chikungunya": [
+        "fever",
+        "musculoskeletal",
+        "systemic"
+    ],
+    "Gastroenteritis": [
+        "gastrointestinal",
+        "fever"
+    ],
+    "Food Poisoning": [
+        "gastrointestinal",
+        "fever",
+        "neurological"
+    ],
+    "Peptic Ulcer Disease": [
+        "gastrointestinal"
+    ],
+    "Acid Reflux (GERD)": [
+        "gastrointestinal",
+        "respiratory"
+    ],
+    "Constipation": [
+        "gastrointestinal"
+    ],
+    "Hypertension": [
+        "cardiovascular",
+        "neurological"
+    ],
+    "Heart Attack": [
+        "cardiovascular",
+        "respiratory"
+    ],
+    "Heart Failure": [
+        "cardiovascular",
+        "respiratory"
+    ],
+    "Stroke": [
+        "neurological",
+        "cardiovascular"
+    ],
+    "Migraine": [
+        "neurological",
+        "gastrointestinal"
+    ],
+    "Diabetes": [
+        "metabolic",
+        "urinary",
+        "systemic"
+    ],
+    "Hypoglycemia": [
+        "metabolic",
+        "neurological",
+        "systemic"
+    ],
+    "Seasonal Allergies": [
+        "respiratory",
+        "eye",
+        "skin"
+    ],
+    "Contact Dermatitis": [
+        "skin"
+    ],
+    "Chickenpox": [
+        "skin",
+        "fever",
+        "systemic"
+    ],
+    "Anemia": [
+        "systemic",
+        "cardiovascular",
+        "neurological"
+    ],
+    "Kidney Failure": [
+        "urinary",
+        "systemic",
+        "cardiovascular"
+    ],
+    "Urinary Tract Infection": [
+        "urinary",
+        "fever"
+    ],
+    "Prostatitis": [
+        "urinary",
+        "fever"
+    ],
+    "Conjunctivitis Due To Virus": [
+        "eye"
+    ],
+    "Arthritis": [
+        "musculoskeletal"
+    ],
+    "Sepsis": [
+        "systemic",
+        "fever",
+        "cardiovascular",
+        "respiratory",
+        "neurological"
+    ],
+    "White Blood Cell Disease": [
+        "systemic",
+        "fever"
+    ],
+    "Fungal Infection": [
+        "skin"
+    ],
+    "Hypothyroidism": [
+        "metabolic",
+        "systemic",
+        "neurological"
+    ],
+    "Hyperthyroidism": [
+        "metabolic",
+        "cardiovascular",
+        "systemic"
+    ],
+    "Tension Headache": [
+        "neurological",
+        "musculoskeletal"
+    ],
+    "Mild Dehydration": [
+        "systemic",
+        "neurological",
+        "urinary"
+    ],
+    "Heat Exhaustion": [
+        "systemic",
+        "fever",
+        "neurological"
+    ],
+    "Smoking Or Tobacco Addiction": [
+        "respiratory",
+        "cardiovascular"
+    ],
+    "Acute Sinusitis": [
+        "respiratory",
+        "fever",
+        "neurological"
+    ],
+    "Chronic Sinusitis": [
+        "respiratory",
+        "neurological"
+    ],
+    "Acne": [
+        "skin"
+    ],
+    "Gastroesophageal Reflux Disease (Gerd)": [
+        "gastrointestinal",
+        "respiratory"
+    ],
+    "Amoebiasis": [
+        "gastrointestinal",
+        "systemic"
+    ],
+    "PCOS": [
+        "metabolic",
+        "systemic"
+    ],
+    "Vitamin D Deficiency": [
+        "musculoskeletal",
+        "systemic"
+    ],
+    "Scabies": [
+        "skin"
+    ],
+    "Fracture Of The Facial Bones": [
+        "musculoskeletal",
+        "neurological"
+    ],
+    "Injury To The Face": [
+        "musculoskeletal",
+        "neurological",
+        "skin"
+    ],
+    "Fracture Of The Leg": [
+        "musculoskeletal"
+    ],
+    "Injury To The Leg": [
+        "musculoskeletal"
+    ],
+    "Fracture Of The Arm": [
+        "musculoskeletal"
+    ],
+    "Injury To The Arm": [
+        "musculoskeletal"
+    ],
+    "Fracture Of The Rib": [
+        "musculoskeletal",
+        "respiratory"
+    ],
+    "Tonsillitis": [
+        "respiratory",
+        "fever"
+    ],
+    "Strep Throat": [
+        "respiratory",
+        "fever"
+    ],
+    "Acute Bronchitis": [
+        "respiratory",
+        "fever"
+    ],
+    "Chronic Obstructive Pulmonary Disease (Copd)": [
+        "respiratory"
+    ],
+    "Acute Bronchospasm": [
+        "respiratory"
+    ],
+    "Acute Respiratory Distress Syndrome (Ards)": [
+        "respiratory",
+        "cardiovascular"
+    ],
+    "Acute Sinusitis": [
+        "respiratory",
+        "fever",
+        "neurological"
+    ],
+    "Chronic Sinusitis": [
+        "respiratory",
+        "neurological"
+    ],
+    "Allergy": [
+        "respiratory",
+        "skin",
+        "systemic"
+    ],
+    "Food Allergy": [
+        "gastrointestinal",
+        "skin",
+        "systemic"
+    ],
+    "Viral Exanthem": [
+        "skin",
+        "fever",
+        "systemic"
+    ],
+    "Psoriasis": [
+        "skin"
+    ],
+    "Eczema": [
+        "skin"
+    ],
+    "Skin Pigmentation Disorder": [
+        "skin"
+    ],
+    "Skin Cancer": [
+        "skin"
+    ],
+    "Gout": [
+        "musculoskeletal",
+        "metabolic"
+    ],
+    "Spondylosis": [
+        "musculoskeletal"
+    ],
+    "Spinal Stenosis": [
+        "musculoskeletal",
+        "neurological"
+    ],
+    "Herniated Disk": [
+        "musculoskeletal",
+        "neurological"
+    ],
+    "Degenerative Disc Disease": [
+        "musculoskeletal"
+    ],
+    "Neuralgia": [
+        "neurological"
+    ],
+    "Multiple Sclerosis": [
+        "neurological",
+        "musculoskeletal"
+    ],
+    "Cataract": [
+        "eye"
+    ],
+    "Glaucoma": [
+        "eye"
+    ],
+    "Corneal Abrasion": [
+        "eye"
+    ],
+    "Corneal Disorder": [
+        "eye"
+    ],
+    "Concussion": [
+        "neurological"
+    ],
+    "Post-Traumatic Stress Disorder (Ptsd)": [
+        "neurological"
+    ],
+    "Schizophrenia": [
+        "neurological"
+    ],
+    "Personality Disorder": [
+        "neurological"
+    ],
+    "Marijuana Abuse": [
+        "neurological",
+        "systemic"
+    ],
+    "Alcohol Abuse": [
+        "neurological",
+        "systemic",
+        "gastrointestinal"
+    ],
+    "Cystitis": [
+        "urinary",
+        "fever"
+    ],
+    "Kidney Stone": [
+        "urinary",
+        "musculoskeletal"
+    ],
+    "Prostatitis": [
+        "urinary",
+        "fever"
+    ],
+    "Anxiety": [
+        "neurological",
+        "cardiovascular"
+    ],
+    "Panic Disorder": [
+        "neurological",
+        "cardiovascular",
+        "respiratory"
+    ],
+    "Heat Stroke": [
+        "systemic",
+        "fever",
+        "neurological"
+    ],
+    "Snake Bite": [
+        "systemic",
+        "skin",
+        "neurological"
+    ],
+    "Cholera": [
+        "gastrointestinal",
+        "systemic"
+    ],
+    "Impetigo": [
+        "dermatological",
+        "skin"
+    ]
+}

@@ -1,0 +1,602 @@
+{
+  "Flu": {
+    "home_care": [
+      "Stay hydrated",
+      "Get adequate rest",
+      "Drink warm fluids",
+      "Monitor body temperature"
+    ],
+    "seek_medical_attention_if": [
+      "Fever persists beyond 3 days",
+      "Breathing difficulty develops",
+      "Severe weakness occurs"
+    ],
+    "severity": "medium"
+  },
+  "Common Cold": {
+    "home_care": [
+      "Stay hydrated",
+      "Get adequate rest",
+      "Drink warm fluids",
+      "Use saline nasal drops if congested"
+    ],
+    "seek_medical_attention_if": [
+      "Symptoms persist beyond 10 days",
+      "Ear pain develops",
+      "Breathing becomes difficult"
+    ],
+    "severity": "low"
+  },
+  "COVID-19": {
+    "home_care": [
+      "Isolate from others",
+      "Rest and stay hydrated",
+      "Monitor oxygen levels if possible",
+      "Wear a mask if around others"
+    ],
+    "seek_medical_attention_if": [
+      "Difficulty breathing",
+      "Persistent pain or pressure in the chest",
+      "New confusion",
+      "Inability to wake or stay awake",
+      "Pale, gray, or blue-colored skin, lips, or nail beds"
+    ],
+    "severity": "high"
+  },
+  "Pneumonia": {
+    "home_care": [
+      "Rest adequately",
+      "Drink fluids to help loosen secretions",
+      "Use a humidifier"
+    ],
+    "seek_medical_attention_if": [
+      "Difficulty breathing",
+      "Chest pain",
+      "High fever",
+      "Confusion"
+    ],
+    "severity": "critical"
+  },
+  "Tuberculosis": {
+    "home_care": [
+      "Ensure good ventilation",
+      "Rest adequately",
+      "Maintain proper nutrition"
+    ],
+    "seek_medical_attention_if": [
+      "Coughing up blood",
+      "Severe chest pain",
+      "Difficulty breathing"
+    ],
+    "severity": "critical"
+  },
+  "Asthma": {
+    "home_care": [
+      "Avoid known triggers (dust, smoke, pollen)",
+      "Sit upright if experiencing mild breathlessness",
+      "Keep calm and practice relaxed breathing"
+    ],
+    "seek_medical_attention_if": [
+      "Severe shortness of breath",
+      "Inability to speak in full sentences",
+      "Lips or face turning blue"
+    ],
+    "severity": "medium"
+  },
+  "Severe Asthma": {
+    "home_care": [
+      "Sit upright and remain calm",
+      "Keep emergency contacts ready"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Severe breathing difficulty"
+    ],
+    "severity": "critical"
+  },
+  "Acute Bronchiolitis": {
+    "home_care": [
+      "Ensure adequate fluid intake",
+      "Use a cool-mist humidifier",
+      "Keep the environment smoke-free"
+    ],
+    "seek_medical_attention_if": [
+      "Labored breathing",
+      "Wheezing worsens",
+      "Skin turns blue or pale"
+    ],
+    "severity": "high"
+  },
+  "Dengue": {
+    "home_care": [
+      "Stay hydrated with oral rehydration solutions",
+      "Rest adequately",
+      "Monitor fever closely",
+      "Use mosquito nets"
+    ],
+    "seek_medical_attention_if": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding gums",
+      "Extreme fatigue"
+    ],
+    "severity": "high"
+  },
+  "Severe Dengue": {
+    "home_care": [
+      "Ensure immediate medical support is arranged",
+      "Keep the person calm"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Bleeding, severe abdominal pain, or shock symptoms"
+    ],
+    "severity": "critical"
+  },
+  "Malaria": {
+    "home_care": [
+      "Rest in a cool, comfortable environment",
+      "Stay hydrated",
+      "Monitor temperature",
+      "Use mosquito nets"
+    ],
+    "seek_medical_attention_if": [
+      "High fever with severe chills",
+      "Confusion",
+      "Seizures",
+      "Difficulty breathing"
+    ],
+    "severity": "high"
+  },
+  "Typhoid": {
+    "home_care": [
+      "Drink boiled or purified water",
+      "Eat bland, easily digestible foods",
+      "Rest completely",
+      "Wash hands frequently"
+    ],
+    "seek_medical_attention_if": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "High persistent fever",
+      "Blood in stool"
+    ],
+    "severity": "high"
+  },
+  "Chikungunya": {
+    "home_care": [
+      "Rest adequately",
+      "Drink plenty of fluids",
+      "Apply cold compresses to painful joints"
+    ],
+    "seek_medical_attention_if": [
+      "Neurological symptoms",
+      "Severe joint pain persisting for weeks",
+      "High fever not subsiding"
+    ],
+    "severity": "medium"
+  },
+  "Gastroenteritis": {
+    "home_care": [
+      "Drink oral rehydration solutions",
+      "Eat small, bland meals (e.g., BRAT diet)",
+      "Rest and avoid dairy/caffeine"
+    ],
+    "seek_medical_attention_if": [
+      "Inability to keep fluids down",
+      "Signs of severe dehydration",
+      "Blood in stool",
+      "High fever"
+    ],
+    "severity": "medium"
+  },
+  "Food Poisoning": {
+    "home_care": [
+      "Sip water or rehydration solutions",
+      "Rest your stomach by eating bland foods later",
+      "Avoid alcohol and caffeine"
+    ],
+    "seek_medical_attention_if": [
+      "Severe dehydration",
+      "Neurological symptoms like blurry vision",
+      "Fever above 102\u00b0F",
+      "Bloody diarrhea"
+    ],
+    "severity": "medium"
+  },
+  "Peptic Ulcer Disease": {
+    "home_care": [
+      "Avoid spicy and acidic foods",
+      "Eat smaller, more frequent meals",
+      "Limit stress and rest adequately",
+      "Avoid alcohol and smoking"
+    ],
+    "seek_medical_attention_if": [
+      "Sudden severe stomach pain",
+      "Vomiting blood",
+      "Black or tarry stools"
+    ],
+    "severity": "high"
+  },
+  "Acid Reflux (GERD)": {
+    "home_care": [
+      "Avoid lying down immediately after eating",
+      "Elevate the head of the bed",
+      "Avoid trigger foods like citrus or chocolate",
+      "Eat smaller meals"
+    ],
+    "seek_medical_attention_if": [
+      "Difficulty swallowing",
+      "Unexplained weight loss",
+      "Chest pain spreading to the arm or neck"
+    ],
+    "severity": "low"
+  },
+  "Constipation": {
+    "home_care": [
+      "Increase dietary fiber intake",
+      "Drink plenty of water",
+      "Engage in light physical activity",
+      "Establish a regular bathroom routine"
+    ],
+    "seek_medical_attention_if": [
+      "Severe abdominal pain",
+      "Blood in stool",
+      "Inability to pass gas",
+      "Unexplained weight loss"
+    ],
+    "severity": "low"
+  },
+  "Hypertension": {
+    "home_care": [
+      "Reduce sodium intake",
+      "Engage in regular light exercise",
+      "Manage stress through relaxation techniques",
+      "Limit caffeine and alcohol"
+    ],
+    "seek_medical_attention_if": [
+      "Severe headache",
+      "Vision changes",
+      "Chest pain",
+      "Shortness of breath"
+    ],
+    "severity": "medium"
+  },
+  "Heart Attack": {
+    "home_care": [
+      "Keep the person calm",
+      "Ensure immediate medical support is arranged",
+      "Have the person sit down and rest"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Chest pain, shortness of breath, pain in left arm or jaw"
+    ],
+    "severity": "critical"
+  },
+  "Heart Failure": {
+    "home_care": [
+      "Limit fluid intake as advised by professionals",
+      "Monitor weight daily",
+      "Reduce sodium intake",
+      "Rest with elevated head"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Severe shortness of breath",
+      "Sudden weight gain",
+      "Swelling in legs or abdomen"
+    ],
+    "severity": "critical"
+  },
+  "Stroke": {
+    "home_care": [
+      "Keep the person calm",
+      "Do not give them food or drink",
+      "Ensure immediate medical support is arranged"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Facial drooping, arm weakness, or speech difficulty"
+    ],
+    "severity": "critical"
+  },
+  "Migraine": {
+    "home_care": [
+      "Rest in a dark, quiet room",
+      "Apply a cold compress to the forehead",
+      "Stay hydrated",
+      "Avoid known trigger foods or stress"
+    ],
+    "seek_medical_attention_if": [
+      "Worst headache of your life",
+      "Headache accompanied by fever or stiff neck",
+      "Neurological symptoms like weakness or vision loss"
+    ],
+    "severity": "medium"
+  },
+  "Diabetes": {
+    "home_care": [
+      "Maintain a balanced diet",
+      "Monitor blood sugar levels regularly",
+      "Engage in regular physical activity",
+      "Stay hydrated"
+    ],
+    "seek_medical_attention_if": [
+      "Signs of extreme high or low blood sugar",
+      "Confusion",
+      "Fruity breath odor",
+      "Unexplained vomiting"
+    ],
+    "severity": "high"
+  },
+  "Hypoglycemia": {
+    "home_care": [
+      "Consume a fast-acting source of sugar (e.g., fruit juice)",
+      "Rest and monitor symptoms",
+      "Eat a small snack once stabilized"
+    ],
+    "seek_medical_attention_if": [
+      "Loss of consciousness",
+      "Seizures",
+      "Inability to swallow"
+    ],
+    "severity": "high"
+  },
+  "Seasonal Allergies": {
+    "home_care": [
+      "Avoid allergen exposure",
+      "Keep indoor air clean",
+      "Use saline nasal rinse",
+      "Avoid dusty environments"
+    ],
+    "seek_medical_attention_if": [
+      "Severe breathing difficulty",
+      "Swelling of the face or throat",
+      "Symptoms completely unresponsive to home management"
+    ],
+    "severity": "low"
+  },
+  "Contact Dermatitis": {
+    "home_care": [
+      "Wash the affected area with mild soap and cool water",
+      "Apply cool compresses",
+      "Avoid scratching",
+      "Wear loose clothing"
+    ],
+    "seek_medical_attention_if": [
+      "Rash covers a large portion of the body",
+      "Signs of infection (pus, increased redness)",
+      "Swelling of the face"
+    ],
+    "severity": "low"
+  },
+  "Chickenpox": {
+    "home_care": [
+      "Rest and stay hydrated",
+      "Take oatmeal baths to soothe itching",
+      "Wear loose, soft clothing",
+      "Avoid scratching blisters"
+    ],
+    "seek_medical_attention_if": [
+      "Fever lasts longer than 4 days",
+      "Rash becomes red, warm, and tender",
+      "Difficulty breathing or stiff neck"
+    ],
+    "severity": "medium"
+  },
+  "Anemia": {
+    "home_care": [
+      "Consume iron-rich foods",
+      "Include Vitamin C in diet to aid iron absorption",
+      "Avoid excessive caffeine with meals",
+      "Get plenty of rest"
+    ],
+    "seek_medical_attention_if": [
+      "Severe fatigue",
+      "Fainting or dizziness",
+      "Irregular heartbeats",
+      "Chest pain"
+    ],
+    "severity": "medium"
+  },
+  "Kidney Failure": {
+    "home_care": [
+      "Follow fluid restrictions strictly",
+      "Adhere to specific dietary guidelines (low potassium/phosphorus)",
+      "Monitor blood pressure"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Severe swelling",
+      "Confusion",
+      "Chest pain"
+    ],
+    "severity": "critical"
+  },
+  "Urinary Tract Infection": {
+    "home_care": [
+      "Drink plenty of water",
+      "Avoid caffeine, alcohol, and spicy foods",
+      "Use a heating pad for abdominal discomfort"
+    ],
+    "seek_medical_attention_if": [
+      "Fever or chills",
+      "Lower back pain",
+      "Blood in urine",
+      "Nausea or vomiting"
+    ],
+    "severity": "medium"
+  },
+  "Prostatitis": {
+    "home_care": [
+      "Drink plenty of water",
+      "Avoid spicy foods or caffeine",
+      "Take warm sitz baths"
+    ],
+    "seek_medical_attention_if": [
+      "Inability to urinate",
+      "Severe pain",
+      "High fever"
+    ],
+    "severity": "medium"
+  },
+  "Conjunctivitis Due To Virus": {
+    "home_care": [
+      "Avoid rubbing eyes",
+      "Wash hands frequently",
+      "Use clean, warm compresses",
+      "Do not share towels or pillows"
+    ],
+    "seek_medical_attention_if": [
+      "Vision changes",
+      "Severe eye pain",
+      "Extreme sensitivity to light",
+      "Symptoms worsen after a few days"
+    ],
+    "severity": "low"
+  },
+  "Arthritis": {
+    "home_care": [
+      "Apply heat or cold compresses",
+      "Engage in gentle joint exercises",
+      "Rest during flare-ups",
+      "Maintain a healthy weight"
+    ],
+    "seek_medical_attention_if": [
+      "Joint becomes suddenly swollen, red, and hot",
+      "Inability to move the joint",
+      "Fever accompanying joint pain"
+    ],
+    "severity": "medium"
+  },
+  "Sepsis": {
+    "home_care": [
+      "Ensure immediate medical support is arranged",
+      "Keep the person comfortable while awaiting help"
+    ],
+    "seek_medical_attention_if": [
+      "Immediately seek emergency medical care",
+      "Extreme pain or discomfort",
+      "Confusion or disorientation",
+      "Shortness of breath"
+    ],
+    "severity": "critical"
+  },
+  "White Blood Cell Disease": {
+    "home_care": [
+      "Avoid crowded places",
+      "Practice strict hand hygiene",
+      "Eat well-cooked foods",
+      "Monitor body temperature daily"
+    ],
+    "seek_medical_attention_if": [
+      "Fever above 100.4\u00b0F",
+      "Signs of infection like sore throat or cough",
+      "Unexplained bruising or bleeding"
+    ],
+    "severity": "high"
+  },
+  "Fungal Infection": {
+    "home_care": [
+      "Keep the affected area clean and dry",
+      "Wear loose, breathable clothing",
+      "Change socks or underwear daily",
+      "Do not share personal items"
+    ],
+    "seek_medical_attention_if": [
+      "Infection spreads rapidly",
+      "Area becomes increasingly red, warm, or painful",
+      "Fever develops"
+    ],
+    "severity": "low"
+  },
+  "Hypothyroidism": {
+    "home_care": [
+      "Maintain a balanced diet",
+      "Establish a regular sleep schedule",
+      "Engage in light physical activity to manage weight",
+      "Avoid stress"
+    ],
+    "seek_medical_attention_if": [
+      "Extreme fatigue",
+      "Unexplained weight changes",
+      "Severe depression",
+      "Cold intolerance worsening"
+    ],
+    "severity": "medium"
+  },
+  "Hyperthyroidism": {
+    "home_care": [
+      "Eat a nutritious, balanced diet",
+      "Practice relaxation techniques",
+      "Stay in cool environments",
+      "Avoid excess caffeine"
+    ],
+    "seek_medical_attention_if": [
+      "Rapid or irregular heartbeat",
+      "Unexplained weight loss",
+      "Severe anxiety",
+      "Fever or delirium (thyroid storm)"
+    ],
+    "severity": "high"
+  },
+  "Tension Headache": {
+    "home_care": [
+      "Apply a warm or cold compress to the head or neck",
+      "Practice relaxation and stress management",
+      "Ensure adequate hydration",
+      "Rest in a quiet room"
+    ],
+    "seek_medical_attention_if": [
+      "Headache is severe and sudden",
+      "Accompanied by neurological symptoms",
+      "Headache worsens over days"
+    ],
+    "severity": "low"
+  },
+  "Mild Dehydration": {
+    "home_care": [
+      "Sip oral rehydration solutions",
+      "Drink water gradually",
+      "Rest in a cool environment",
+      "Avoid caffeine and alcohol"
+    ],
+    "seek_medical_attention_if": [
+      "Inability to keep fluids down",
+      "Confusion",
+      "Dizziness when standing",
+      "No urination for 8 hours"
+    ],
+    "severity": "low"
+  },
+  "Heat Exhaustion": {
+    "home_care": [
+      "Move to a cooler place",
+      "Lie down and loosen clothing",
+      "Sip cool water or sports drinks",
+      "Apply cool, wet cloths to the body"
+    ],
+    "seek_medical_attention_if": [
+      "Vomiting",
+      "Symptoms worsen or last longer than 1 hour",
+      "Confusion or fainting (heat stroke signs)"
+    ],
+    "severity": "high"
+  },
+  "Smoking Or Tobacco Addiction": {
+    "home_care": [
+      "Identify and avoid smoking triggers",
+      "Engage in physical activity to manage cravings",
+      "Practice deep breathing exercises",
+      "Stay hydrated"
+    ],
+    "seek_medical_attention_if": [
+      "Severe withdrawal symptoms",
+      "Chest pain",
+      "Persistent cough with blood",
+      "Severe depression or anxiety"
+    ],
+    "severity": "medium"
+  }
+}

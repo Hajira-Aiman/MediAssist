@@ -1,0 +1,17 @@
+-r requirements.txt
+
+# Alternate classical models (benchmark comparison only — the deployed
+# model is logistic regression and needs none of these).
+xgboost==2.0.3
+
+# Explainability analyses (src/explainability/)
+shap==0.45.0
+lime==0.2.0.1
+
+# Notebook environment
+jupyter==1.0.0
+wordcloud==1.9.3
+
+# BERT/transformer experiments (src/models/trainer.py) — large download.
+# torch==2.2.1
+# transformers==4.38.2

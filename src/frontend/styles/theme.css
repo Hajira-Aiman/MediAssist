@@ -1,0 +1,59 @@
+/* ===== APP BACKGROUND — deep navy mesh gradient ===== */
+[data-testid="stAppViewContainer"],
+.stApp {
+    background:
+        radial-gradient(ellipse at 20% 20%, rgba(96, 165, 250, 0.18) 0%, transparent 55%),
+        radial-gradient(ellipse at 80% 80%, rgba(167, 139, 250, 0.15) 0%, transparent 55%),
+        radial-gradient(ellipse at 50% 0%,  rgba(59, 130, 246, 0.10) 0%, transparent 60%),
+        linear-gradient(160deg, #f0f4ff 0%, #e8eeff 40%, #f3e8ff 100%) !important;
+    background-attachment: fixed !important;
+    min-height: 100vh;
+}
+
+/* ===== HEADER ===== */
+[data-testid="stHeader"] {
+    background: transparent !important;
+    backdrop-filter: none !important;
+}
+
+/* ===== SIDEBAR ===== */
+[data-testid="stSidebar"] {
+    background: rgba(248, 250, 255, 0.85) !important;
+    backdrop-filter: blur(24px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
+    border-right: 1px solid rgba(200, 215, 255, 0.4) !important;
+    box-shadow: 4px 0 24px rgba(59, 130, 246, 0.06) !important;
+}
+[data-testid="stSidebar"] > div:first-child {
+    background: transparent !important;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #93C5FD, #C4B5FD);
+    border-radius: 999px;
+}
+
+/* ===== COLOUR UTILITIES ===== */
+.text-primary   { color: #1E293B; }
+.text-secondary { color: #475569; }
+.text-muted     { color: #94A3B8; }
+.text-critical  { color: #DC2626; }
+.text-high      { color: #EA580C; }
+.text-medium    { color: #CA8A04; }
+.text-low       { color: #16A34A; }
+
+/* ===== STATUS EXPANDERS ===== */
+[data-testid="stExpander"] {
+    background: rgba(255,255,255,0.5) !important;
+    border: 1px solid rgba(255,255,255,0.6) !important;
+    border-radius: 16px !important;
+    backdrop-filter: blur(10px) !important;
+}
+[data-testid="stExpander"] summary {
+    border-radius: 16px !important;
+    color: #475569 !important;
+    font-weight: 500 !important;
+}

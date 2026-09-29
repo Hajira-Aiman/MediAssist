@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+
+# Tooling scratch
+.ortho/*
+**/.ortho/*
+!.ortho/decisions.jsonl
+!**/.ortho/decisions.jsonl
+.claude/settings.local.json
+brain/
+.chronos/
+
+# ---------------------------------------------------------------
+# Data: large datasets stay out; small config-like JSONs ship so
+# the app runs on a fresh clone.
+# ---------------------------------------------------------------
+data/*
+!data/*.json
+!data/processed/
+data/processed/*
+!data/processed/ml/
+data/processed/ml/*
+!data/processed/ml/label_mapping.json
+!data/raw/
+data/raw/*
+!data/**/.gitkeep
+
+# ---------------------------------------------------------------
+# Models: only the deployed logistic_regression artifact ships.
+# Everything else is reproducible via src/models/classical_ml/train.py
+# ---------------------------------------------------------------
+models/*
+!models/classical/
+models/classical/*/*
+!models/classical/logistic_regression/classifier.pkl
+!models/classical/logistic_regression/vectorizer.pkl
+# Benchmark metrics for all models (JSON only, no pickles)
+!models/classical/*/metrics.json
+!models/classical/*/metadata.json
+!models/classical/*/classification_report.json
+
+vector_store/
+
+# Logs: keep the directory structure, not the contents
+logs/**
+!logs/**/.gitkeep

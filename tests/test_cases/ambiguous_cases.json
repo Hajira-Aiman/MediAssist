@@ -1,0 +1,362 @@
+[
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "tiredness, mild headache, loss of appetite",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "muscle ache, feeling hot, lethargy",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "fever, fatigue, headache",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "body pain, chills, sweating",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  },
+  {
+    "input": "nausea, dizziness, weakness",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "severity": "medium"
+  }
+]

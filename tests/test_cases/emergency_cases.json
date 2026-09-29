@@ -1,0 +1,452 @@
+[
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "extreme confusion, stiff neck, and highest fever ever",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "extreme confusion, stiff neck, and highest fever ever",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "extreme confusion, stiff neck, and highest fever ever",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "extreme confusion, stiff neck, and highest fever ever",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "extreme confusion, stiff neck, and highest fever ever",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "coughing up blood and difficulty breathing",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Tuberculosis"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "severe chest pain and shortness of breath spreading to left arm",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Heart Attack"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden weakness on one side of face and slurred speech",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Stroke"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "sudden unconsciousness and violent seizures",
+    "expected_categories": [],
+    "expected_possible_diseases": [],
+    "expected_severity": "critical"
+  },
+  {
+    "input": "high fever, severe abdominal pain and bleeding gums",
+    "expected_categories": [],
+    "expected_possible_diseases": [
+      "Severe Dengue"
+    ],
+    "expected_severity": "critical"
+  }
+]

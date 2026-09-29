@@ -1,0 +1,10 @@
+{
+    "model_type": "svm",
+    "training_timestamp": "2026-05-12 00:01:40",
+    "hyperparameters": {
+        "C": 1.0,
+        "kernel": "linear",
+        "probability": true
+    },
+    "training_time_seconds": 1815.105010509491
+}

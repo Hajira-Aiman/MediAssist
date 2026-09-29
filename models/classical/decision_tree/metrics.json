@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.15272801302931596,
+    "precision": 0.21463513652962188,
+    "recall": 0.15272801302931596,
+    "f1_score": 0.15373942365484136,
+    "top_3_accuracy": 0.21416938110749187,
+    "training_time_seconds": 52.51200318336487,
+    "inference_latency_seconds_per_sample": 2.6585030633385873e-06,
+    "model_size_mb": 0.7447290420532227
+}

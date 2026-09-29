@@ -1,0 +1,9 @@
+{
+    "model_type": "decision_tree",
+    "training_timestamp": "2026-05-12 00:51:07",
+    "hyperparameters": {
+        "max_depth": 10,
+        "min_samples_split": 5
+    },
+    "training_time_seconds": 52.51200318336487
+}
